@@ -1,6 +1,6 @@
-name: GitHub-Profile-3D-Contrib
-description: Generate profile 3D Contributions
-author: yoshi389111
+name: GitHub-Profile-3D-Contrib-with-mkdocs
+description: Generate profile 3D Contributions with mkdocs
+author: yoshi389111, sas08
 
 runs:
   using: 'node12'
